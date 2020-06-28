@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CountingArray
+comment1.params=r\ main
+comment1.target=void\ tester(int,\ int[])
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=p
+comment3.target=void\ print(int[])
+numComments=4
